@@ -1,4 +1,4 @@
-module iamlog
+module github.com/robinlg/iamlog
 
 go 1.22
 
